@@ -20,8 +20,8 @@ Google Firebase
 
 # Useful Websites
 
-- [Web Site Name](https://firebase.google.com/docs?authuser=0&hl=en)
-- [Web Site Name](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Firebase docs](https://firebase.google.com/docs?authuser=0&hl=en)
+- [JS docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 # Future Work
 
